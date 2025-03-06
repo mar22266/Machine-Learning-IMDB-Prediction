@@ -23,10 +23,10 @@ The dataset used in this project was **taken from Kaggle** and contains informat
 - **Votes**: Total votes received
 - **Revenue**: Box office earnings (millions)
 - **Metascore**: Aggregated critic scores from Metacritic
+  
+🔗 Source: [Kaggle - IMDB Dataset](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows)
 
-🔗 **Source**: [Kaggle - IMDB Dataset]([https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows))
-
-⚠ **Important**: If the dataset cannot be included in the repository due to licensing restrictions, please download it manually from Kaggle and place it in the `/data` directory.
+⚠ **Important**: the dataset cannot be included in the repository due to licensing restrictions, please download it manually from Kaggle and place it in the `/data` directory.
 
 ## 🔍 Data Preprocessing
 
