@@ -12,7 +12,7 @@ The project involves:
 
 ## 📊 Dataset
 
-The dataset used in this project contains information on 1000 movies from **IMDB (2006-2016)**, including:
+The dataset used in this project was **taken from Kaggle** and contains information on 1000 movies from **IMDB (2006-2016)**:
 - **Title**: Movie title
 - **Genre**: Movie genres
 - **Director**: Director's name
@@ -23,6 +23,10 @@ The dataset used in this project contains information on 1000 movies from **IMDB
 - **Votes**: Total votes received
 - **Revenue**: Box office earnings (millions)
 - **Metascore**: Aggregated critic scores from Metacritic
+
+🔗 **Source**: [Kaggle - IMDB Dataset]([https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data](https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows))
+
+⚠ **Important**: If the dataset cannot be included in the repository due to licensing restrictions, please download it manually from Kaggle and place it in the `/data` directory.
 
 ## 🔍 Data Preprocessing
 
@@ -71,5 +75,4 @@ The models were evaluated using **Mean Absolute Error (MAE)**, **Mean Squared Er
 - **Random Forest** provided a balance between accuracy and interpretability.
 - **SVM** performed comparably but struggled with large deviations in predictions.
 - The dataset's variability and possible missing data could affect prediction accuracy.
-
 
